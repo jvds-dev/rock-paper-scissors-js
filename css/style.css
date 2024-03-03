@@ -5,7 +5,7 @@
 }
 
 body{
-    background: #000000;
+    background: radial-gradient(#74b9ff, #55efc4, #a29bfe, #9575cd);
     height: 100vh;
     display: flex;
     align-items: center;
